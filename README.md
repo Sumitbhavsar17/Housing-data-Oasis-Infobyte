@@ -1,7 +1,7 @@
 # Housing-data-Oasis-Infobyte
 Hey LinkedIn family! 👋
 🚀
-📈 My Fourth Data Analyst task at Oasis , Where I Worked as a #data analyst . 
+📈 My Fourth Data Analyst task at Oasis Infobyte, Where I Worked as a #data analyst . 
 "Thrilled to introduce the #Housing Data , a dynamic and intuitive platform revolutionizing the way viewers engage with content! 🌟
 
 
